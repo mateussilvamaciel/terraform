@@ -1,0 +1,7 @@
+/.terraform/
+
+.terraform.lock.hcl
+
+london-region-key-pair
+
+london-region-key-pair.pub
