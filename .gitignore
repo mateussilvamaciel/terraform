@@ -5,3 +5,5 @@
 london-region-key-pair
 
 london-region-key-pair.pub
+
+terraform.pem
